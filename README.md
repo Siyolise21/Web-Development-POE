@@ -1,5 +1,5 @@
 # Web-Development-POE
-Copy the masinyusaneWeb folder to desktop in order to run it on your browser. It will not function if opened straight from GitHub.
+Copy the ImprovedmasinyusaneWeb.zip folder to desktop in order to run it on your browser. It will not function if opened straight from GitHub.
 
 References:
 • http://www.masinyusane.org
